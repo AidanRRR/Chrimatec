@@ -10,3 +10,17 @@
     /* width: 636px;
     height: 328px; */
 }
+
+.menu-column {
+    display: none;
+}
+
+.bedrijfsvideo-titel {
+    text-align: left;
+    color: white;
+    font-size: 45px;
+    font-family: 'Montserrat', sans-serif;
+}
+.bedrijfsvideo-video {
+    
+}
