@@ -55,7 +55,6 @@
 	    width: 100%;
 	}
 	
-
 	.theme_menu {
 		background: #f7f7f7;
 	}
@@ -71,14 +70,16 @@
 	    margin: 15px 0 15px;
 	}
 	
-	
-	
 	.sidebar-page .sidebar {
 		position: relative;
 		padding-left: 0px;
 	}
 	.header-upper .upper-column{
 		margin-top: 15px;
+	}
+
+	.contactbox {
+		margin-top: 40px;
 	}
 	
 }
