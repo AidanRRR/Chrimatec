@@ -21,6 +21,44 @@
     font-size: 45px;
     font-family: 'Montserrat', sans-serif;
 }
-.bedrijfsvideo-video {
-    
+.bedrijfsvideo-video {}
+
+/* Diensten mobiel */
+.diensten-mobile {
+    display: none;
+}
+
+.diensten-mobile {
+    display: none;
+}
+.diensten-mobile-h {
+    color: white;
+}
+.diensten-mobile-p {
+    color: white;
+    text-align: justify;
+    margin-right: 25px;
+    margin-left: 25px;
+    margin-top: 15px;
+    margin-bottom: 25px;
+}
+.diensten-mobile-img {
+    width: 75%;
+    margin-bottom: 15px;
+    border: 2px solid white;
+}
+.tab-content {
+    display: block;
+}
+.tparrows {
+    display: none !important;
+}
+
+@media only screen and (max-width: 550px) {
+    .our-service .tab-list li.active > div {
+        display: block;
+    }
+    .tab-content {
+        display: none;
+    }
 }
